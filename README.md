@@ -5,6 +5,6 @@ This repository is the Scammer Blacklist of the Forbidden Trove Discord Server.
 
 A detailed version of this with explainations and proof for individual entries can be found here: https://docs.google.com/spreadsheets/d/1PwpKslG_JUcn5nmS6oWfxAtk23u7CJemEigQFbpWBms/edit?usp=sharing
 
-If you believe that an account of yours has been placed on the blacklist in error, contact a member of the Forbidden Trove Discord Server Staff Team.
+If you believe that an account of yours has been placed on the blacklist in error, you can appeal here: https://forms.gle/6PgL9FetWFaz3L2o6
 
 Join The Forbidden Trove here: https://discord.gg/tftrove
