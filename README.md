@@ -10,10 +10,10 @@ If you believe that an account of yours has been placed on the blacklist in erro
 Join The Forbidden Trove here: https://discord.gg/tftrove
 
 Available reasons are:
-Stole Item(s) during Service(s),
-Did not pay for Service(s),
-Service(s) Collateral Scam(s),
-Stole Service Fee,
-Build Sale(s) Scam(s),
-Swap Scam(s),
-Vouch Complaints
+* Stole Item(s) during Service(s),
+* Did not pay for Service(s),
+* Service(s) Collateral Scam(s),
+* Stole Service Fee,
+* Build Sale(s) Scam(s),
+* Swap Scam(s),
+* Vouch Complaints
