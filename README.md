@@ -17,3 +17,5 @@ Available reasons are:
 * Build Sale(s) Scam(s),
 * Swap Scam(s),
 * Vouch Complaints
+* Rota Scam
+* Refused to compensate bricked item
