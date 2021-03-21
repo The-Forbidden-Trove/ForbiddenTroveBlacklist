@@ -914,3 +914,5 @@ account_name, discord_id, blacklisted_on, reason, active
 "지꾸여", "377400463596716035", "20/03/2021", "Stole item(s) during service(s)", "Y"
 "CheepTell_No", "365136295053361152", "20/03/2021", "Stole item(s) during service(s)", "Y"
 "dalosmalo", "", "20/03/2021", "Swap scam(s)", "Y"
+"CheepTell_No", "", "21/03/2021", "Service collateral scam(s)", "Y"
+"Posledneeleto", "823169010262605864", "22/3/2021", "Alt of a banned user", "Y"
