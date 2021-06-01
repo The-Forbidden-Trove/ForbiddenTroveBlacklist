@@ -1739,3 +1739,4 @@ account_name, discord_id, blacklisted_on, reason, active
 "Diagna", "", "31/5/2021", "Cadiro scam", "Y"
 "Korjsh", "", "31/5/2021", "Editing whisper message", "Y"
 "TaoInTheShell", "", "31/5/2021", "Swap scam(s)", "Y"
+"DiscordUser", "561321840174432263", "31/5/2021", "Failed carry service and did not compensate", "Y"
