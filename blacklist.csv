@@ -2252,3 +2252,5 @@ account_name, discord_id, blacklisted_on, reason, active
 "Kereroro", "", "31/08/2021", "Swap scam(s)", "Y"
 "gupyz0r", "", "01/09/2021", "Refused to return overpaid currency", "Y"
 "Nyyanko", "276356730827309057", "01/09/2021", "Swap scam(s)", "Y"
+"Rt_b", "", "02/09/2021", "Rota scam", "Y"
+"mtv_skepeer", "882168336870428672", "02/09/2021", "Alt of a banned user", "Y"
