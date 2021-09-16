@@ -12,7 +12,7 @@ account_name, discord_id, blacklisted_on, reason, active
 "F1nnr", "683005995093590072", "6/7/2020", "Stole Service Fee", "Y"
 "LegacySnow", "274516315920793601", "7/7/2020", "Service(s) Collateral Scam(s)", "Y"
 "TRumut", "316337408872415242", "10/7/2020", "Stole Item(s) during Service(s)", "Y"
-"polar641", "684088326759907358", "13/7/2020", "Service(s) Collateral Scam(s)", "Y"F
+"polar641", "684088326759907358", "13/7/2020", "Service(s) Collateral Scam(s)", "Y"
 "Daiiden", "263829307498037253", "14/7/2020", "Service(s) Collateral Scam(s)", "Y"
 "Goobe", "680134378860314633", "15/7/2020", "Stole Item(s) during Service(s)", "Y"
 "Szymus95", "472390005604745216", "16/7/2020", "Stole Item(s) during Service(s)", "Y"
@@ -2286,3 +2286,4 @@ account_name, discord_id, blacklisted_on, reason, active
 "inpater123", "", "15/09/2021", "Editing whisper message", "Y"
 "Dadoedi", "305438662735429633", "15/09/2021", "Price fixing", "Y"
 "ARNONTTS", "435337657665585153", "16/09/2021", "Making intentionally false reports for personal gain", "Y"
+"%D0%BC%D0%B0%D1%82%D1%8267", "", "16/09/2021", "Swap scam(s)", "Y"
