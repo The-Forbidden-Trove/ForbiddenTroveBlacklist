@@ -44,7 +44,7 @@ account_name, discord_id, blacklisted_on, reason, active
 "pathofexile001", "184889403938701312", "9/8/2020", "Build Sale(s) Scam(s)", "Y"
 "keojeN", "", "10/8/2020", "Did not pay for Service(s)", "Y"
 "TastyLaksa", "728037050263011410", "11/8/2020", "Stole Item(s) during Service(s)", "Y"
-"PracticePotential", "258589914516553736", "13/8/2020",  "Stole Item(s) during Service(s)", "Y"
+"fracture_service", "258589914516553736", "13/8/2020",  "Stole Item(s) during Service(s)", "Y"
 "ActuallyBest", "258589914516553736", "13/8/2020", "Stole Item(s) during Service(s)", "Y"
 "hillrack", "258589914516553736", "13/8/2020", "Stole Item(s) during Service(s)", "Y"
 "morro321", "660178672413704263", "13/8/2020", "Stole Item(s) during Service(s)", "Y"
