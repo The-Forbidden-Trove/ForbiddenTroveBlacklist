@@ -1580,7 +1580,6 @@ account_name, discord_id, blacklisted_on, reason, active
 "Ooopss333", "831914407822229504", "23/5/2021", "Stole item(s) during service(s)", "Y"
 "Pydrochron", "208966326729834506", "24/5/2021", "Did not pay for service(s)", "Y"
 "K0rcii", "487976621324894209", "24/5/2021", "Did not pay for service(s)", "Y"
-"ddeicide", "359687580582805505", "24/5/2021", "Stole item(s) during service(s)", "Y"
 "lobsterblst", "", "24/5/2021", "Swap scam(s)", "Y"
 "33xo", "", "24/5/2021", "Swap scam(s)", "Y"
 "malomacas", "", "24/5/2021", "Swap scam(s)", "Y"
@@ -2424,3 +2423,4 @@ account_name, discord_id, blacklisted_on, reason, active
 "menadalo", "", "31/10/2021", "Swap scam(s)", "Y"
 "sokurdk", "", "31/10/2021", "Editing whisper message", "Y"
 "ineedmoreloveee", "", "01/11/2021", "Stole item(s) during service(s)", "Y"
+"ジジジジジ", "359687580582805505", "24/5/2021", "Stole item(s) during service(s)", "Y"
