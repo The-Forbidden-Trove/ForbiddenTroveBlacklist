@@ -2570,7 +2570,6 @@ account_name, discord_id, blacklisted_on, reason, active
 "koddaka656", "", "17/11/2021", "Stole item(s) during service(s)", "Y"
 "Number3alty", "", "17/11/2021", "Swap scam(s)", "Y"
 "Yanhko", "", "17/11/2021", "Stole items from group", "Y"
-"lindcond", "884201979079974923", "17/11/2021", "Stole item(s) during service(s)", "Y"
 "pasvanier", "910289422350700545", "17/11/2021", "Stole item(s) during service(s)", "Y"
 "Biitchplease", "", "17/11/2021", "Stole items from group", "Y"
 "FkMyLifeFkMyMoney", "892650107839848488", "17/11/2021", "Stole item(s) during service(s)", "Y"
@@ -2594,3 +2593,4 @@ account_name, discord_id, blacklisted_on, reason, active
 "cicapair1", "387972026087899138", "08/11/2021", "Wrong craft on item", "Y"
 "RealNegan", "", "20/11/2021", "Editing whisper message", "Y"
 "bapre84", "", "20/11/2021", "Swap scam(s)", "Y"
+"UchihaJet", "884201979079974923", "17/11/2021", "Stole item(s) during service(s)", "Y"
