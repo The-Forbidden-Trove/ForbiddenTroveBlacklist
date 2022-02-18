@@ -90,3 +90,4 @@ account_name, discord_id, blacklisted_on, reason, active
 "jethro0812", "", "12/02/2022", "Price fixing", "Y"
 "Rampage4", "", "13/02/2022", "Price fixing", "Y"
 "LesunO1", "", "15/02/2022", "Misleading prices with no intention to sell", "Y"
+"DeepAlchemist", "", "17/02/2022", "Misleading prices with no intention to sell", "Y"
