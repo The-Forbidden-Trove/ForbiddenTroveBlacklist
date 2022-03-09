@@ -3101,3 +3101,5 @@ account_name, discord_id, blacklisted_on, reason, active
 "RSROBBER", "331582502718144525", "08/03/2022", "Falsifying/Deleting evidence", "Y"
 "Mcnlove", "292751453045391360", "08/03/2022", "Doxxing and/or death threat(s)", "Y"
 "wobbel", "", "08/03/2022", "Swap scam(s)", "Y"
+"meruco", "", "09/03/2022", "Editing whisper message", "Y"
+"deepweboy", "", "09/03/2022", "Stole item(s) during service(s)", "Y"
