@@ -2055,7 +2055,6 @@ account_name, discord_id, blacklisted_on, reason, active
 "heist_ta", "", "05/09/2021", "Swap scam(s)", "Y"
 "GeekBrainer", "485504468855685122", "05/09/2021", "Failed carry service and did not compensate", "Y"
 "MariaShevchenkoTor", "729574603277467700", "06/09/2021", "Stole item(s) during service(s)", "Y"
-"DankShaman", "", "06/09/2021", "Stole currency from group", "Y"
 "Beresnev", "453302744154112001", "07/09/2021", "Stole item(s) during service(s)", "Y"
 "blodholf", "320172033562640385", "07/09/2021", "Refused to return overpaid currency", "Y"
 "GwinnenMaster", "", "07/09/2021", "Alt of a banned user", "Y"
