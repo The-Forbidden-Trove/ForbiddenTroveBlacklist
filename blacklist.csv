@@ -3403,3 +3403,5 @@ account_name, discord_id, blacklisted_on, reason, active
 "GAGINHO", "", "24/05/2022", "Stole service fee", "Y"
 "gunhee256", "", "23/05/2022", "Did not pay for service(s)", "Y"
 "purplegaming12", "323131594758029312 ", "23/05/2022", "Swap scam(s)", "Y"
+"Stanback", "", "23/05/2022", "Staying in other player's hideout trying to scam others", "Y"
+"NeigeDofus", "142288151937810442 ", "24/05/2022", "Failed carry service and did not compensate", "Y"
