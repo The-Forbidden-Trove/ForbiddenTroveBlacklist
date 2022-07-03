@@ -3744,3 +3744,4 @@ account_name, discord_id, blacklisted_on, reason, active
 "Fedubuce", "", "02/07/2022", "Service collateral scam(s)", "Y"
 "BlackBrilliant", "", "02/07/2022", "Editing whisper message", "Y"
 "HanSoIo", "223470862383185921 ", "02/07/2022", "Stole items from group", "Y"
+"Banqwerty", "990871362274988033", "03/07/2022", "Alt of a banned user", "Y"
