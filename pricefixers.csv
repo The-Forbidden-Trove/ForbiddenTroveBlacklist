@@ -231,3 +231,5 @@ account_name, discord_id, blacklisted_on, reason, active
 "GreendStashgame", "284766393780535297", "27/07/2022", "Price fixing", "Y"
 "Slamshot", "", "27/07/2022", "Misleading prices with no intention to sell", "Y"
 "HeistStartMyStory", "", "30/07/2022", "Price fixing", "Y"
+"Davhart", "", "02/08/2022", "Misleading prices with no intention to sell", "Y"
+"Beliote", "", "02/08/2022", "Misleading prices with no intention to sell", "Y"
