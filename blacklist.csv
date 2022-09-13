@@ -271,7 +271,7 @@ account_name, discord_id, blacklisted_on, reason, active
 "VaporUa", "", "02/02/2021", "Stole Item(s) during Service(s)", "Y"
 "GenomDrako", "", "02/02/2021", "Rota Scam", "Y"
 "poehd556", "", "02/02/2021", "Swap Scam(s)", "Y"
-"Int_Master2007", "209036857168625664", "02/02/2021", "Stole currency from group farm", "Y"
+"Int_Master2007", "209036857168625664", "02/02/2021", "Stole currency from farm", "Y"
 "reginadoida", "", "02/02/2021", "Editing whisper message", "Y"
 "andreteixeiramarques", "247824347132198914", "01/02/2021", "Stole Item(s) during Service(s)", "Y"
 "gkloyy", "", "02/02/2021", "Editing whisper message", "Y"
@@ -4051,3 +4051,4 @@ account_name, discord_id, blacklisted_on, reason, active
 "BahamGG", "329081991880376323", "13/09/2022", "Custom services scam(s)", "Y"
 "Radostnij", "", "13/09/2022", "Did not pay for service(s)", "Y"
 "dzija", "", "13/09/2022", "Stole currency from group", "Y"
+"Frozz3n", "", "13/09/2022", "Stole currency from group", "Y"
