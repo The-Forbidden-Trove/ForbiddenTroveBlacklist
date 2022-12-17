@@ -4285,3 +4285,6 @@ account_name, discord_id, blacklisted_on, reason, active
 "xantaxa", "", "17/12/2022", "Did not pay for service(s)", "Y"
 "c4swq179", "", "17/12/2022", "Swap scam(s)", "Y"
 "Jounss", "833686414008647680", "17/12/2022", "Alt of a blacklisted user", "Y"
+"prop_dynamic", "", "18/12/2022", "Swap scam(s)", "Y"
+"caserer2", "", "18/12/2022", "Stole item(s) from group", "Y"
+"Thiese", "314484724049641473 ", "18/12/2022", "Editing whisper message", "Y"
