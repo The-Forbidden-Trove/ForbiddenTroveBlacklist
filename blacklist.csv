@@ -4361,3 +4361,5 @@ account_name, discord_id, blacklisted_on, reason, active
 "Rayatello", "", "24/12/2022", "Stole service fee", "Y"
 "Esipode", "", "24/12/2022", "Stole item(s) during service(s)", "Y"
 "leryss22", "266581139882377216", "24/12/2022", "Stole item(s) during service(s)", "Y"
+"zenith_art5", "", "24/12/2022", "Rota scam", "Y"
+"RTD", "", "24/12/2022", "Editing whisper message", "Y"
