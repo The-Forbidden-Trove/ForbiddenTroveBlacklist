@@ -4396,7 +4396,7 @@ account_name, discord_id, blacklisted_on, reason, active
 "maiconfts", "237664310078341130", "27/12/2022", "Build sale scam(s)", "Y"
 "Speedylegshot", "235831287674306560", "27/12/2022", "Build sale scam(s)", "Y"
 "Zaxthör", "205749187340533760", "27/12/2022", "Blackmailing another player", "Y"
-"spidercide", "909711673311510528", "27/12/2022", "Serious harassment", "TBA"
+"spidercide", "909711673311510528", "27/12/2022", "Serious harassment", "Y"
 "Grimmy_DM", "", "27/12/2022", "Stole service fee", "Y"
 "EzeePeezeeE", "909711673311510528", "27/12/2022", "Alt of a blacklisted user", "Y"
 "JarlWielki", "445493920948813834", "27/12/2022", "Stole currency from group", "Y"
@@ -4407,3 +4407,4 @@ account_name, discord_id, blacklisted_on, reason, active
 "Dlakaewr", "", "27/12/2022", "Swap scam(s)", "Y"
 "ddsama", "", "27/12/2022", "Editing whisper message", "Y"
 "Vivеlo", "", "27/12/2022", "Swap scam(s)", "Y"
+"spoodercide", "909711673311510528", "27/12/2022", "Serious harassment", "Y"
