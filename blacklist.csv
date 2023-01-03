@@ -4472,3 +4472,5 @@ account_name, discord_id, blacklisted_on, reason, active
 "Anem0", "", "02/01/2023", "Stole item(s) during service(s)", "Y"
 "Yagikikoha", "Yagikikoha", "03/01/2023", "Swap scam(s)", "Y"
 "KingFubba", "206036015436005377 ", "03/01/2023", "Stole item(s) from group", "Y"
+"notusetheWebsite", "", "03/01/2023", "Stole item(s) during service(s)", "Y"
+"OneThousandDiv", "", "03/01/2023", "Service collateral scam(s)", "Y"
