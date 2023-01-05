@@ -5,7 +5,7 @@ This repository contains the Blacklist and the pricefixers list of [the Forbidde
 
 ## Appealing a blacklist or pricefixer flag.
 If you are banned or blacklisted and would like to appeal, you can do so by [filling out the following form](http://banappeal.tftrove.com/).
-Make sure to explain what happened, how you plan to fix / fixed it and why we should give you another chance.
+Make sure to explain what happened, how you fixed (or plan to fix) it and why we should give you another chance.
 Low efforts appeals will be denied. If you want a second chance, prove you deserve it.
 
 **If it has been 15 days and you have not heard back from us, it means your appeal was denied**.
