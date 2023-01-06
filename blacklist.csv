@@ -4498,3 +4498,4 @@ account_name, discord_id, blacklisted_on, reason, active
 "mrpen10", "", "06/01/2023", "Did not pay for service(s)", "Y"
 "Fedevm737", "", "06/01/2023", "Stole item(s) during service(s)", "Y"
 "kegnaes", "", "06/01/2023", "Swap scam(s)", "Y"
+"Qsin_q", "360057176280137738", "06/01/2023", "Alt of a blacklisted user", "Y"
