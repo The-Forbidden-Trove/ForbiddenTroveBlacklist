@@ -4532,3 +4532,4 @@ account_name, discord_id, blacklisted_on, reason, active
 "labruner", "1011281413020057670 ", "08/01/2023", "Alt of a blacklisted user", "Y"
 "shadowcrim", "", "09/01/2023", "Stole item(s) from group", "Y"
 "zhawn24", "", "09/01/2023", "Stole currency from group", "Y"
+"fair_trader", "", "09/01/2023", "Swap scam(s)", "Y"
