@@ -401,3 +401,4 @@ account_name, discord_id, blacklisted_on, reason, active
 "TG_Thunder", "326038090193829889", "03/03/2023", "Price fixing", "Y"
 "Clemol", "517314041085952011 ", "05/03/2023", "Price fixing", "Y"
 "Raikudou", "252215034342670336", "10/03/2023", "Misleading prices with no intention to sell", "Y"
+"괴로움", "", "09/06/2022", "Price fixing", "Y"
