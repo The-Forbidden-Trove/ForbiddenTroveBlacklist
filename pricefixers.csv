@@ -407,3 +407,4 @@ account_name, discord_id, blacklisted_on, reason, active
 "그란디에타", "295082735079522305", "09/07/2022", "Price fixing", "Y"
 "OutworldOne", "803552083340951592 ", "10/03/2023", "Misleading prices with no intention to sell", "Y"
 "JTMcDub", "118848737555644418", "05/08/2022", "Price fixing", "Y"
+"nincompoop", "", "11/03/2023", "Misleading prices with no intention to sell", "Y"
