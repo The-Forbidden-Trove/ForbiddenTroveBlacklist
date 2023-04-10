@@ -401,7 +401,6 @@ account_name, discord_id, blacklisted_on, reason, active
 "괴로움", "", "09/06/2022", "Price fixing", "Y"
 "ЕГГОГ", "", "19/06/2022", "Price fixing", "Y"
 "insu0000", "", "29/06/2022", "Misleading prices with no intention to sell", "Y"
-
 "OutworldOne", "803552083340951592 ", "10/03/2023", "Misleading prices with no intention to sell", "Y"
 "nincomp00p", "", "11/03/2023", "Misleading prices with no intention to sell", "Y"
 "lebuzzerQc", "", "13/03/2023", "Misleading prices with no intention to sell", "Y"
@@ -416,3 +415,4 @@ account_name, discord_id, blacklisted_on, reason, active
 "beatrush", "663200741736972329", "07/04/2023", "Misleading prices with no intention to sell", "Y"
 "fede4056", "", "09/04/2023", "Misleading prices with no intention to sell", "Y"
 "FUCKINGFUNKIE", "129304370952011776", "09/04/2023", "Misleading prices with no intention to sell", "Y"
+"hankthedolphin", "259087012861181953", "10/04/2023", "Price fixing", "Y"
