@@ -4922,3 +4922,4 @@ account_name, discord_id, blacklisted_on, reason, active
 "ULTIMATEMURDERMACHINE", "", "15/04/2023", "Did not pay for service(s)", "Y"
 "herlemonade", "", "15/04/2023", "Service collateral scam(s)", "Y"
 "Xampzz", "", "16/04/2023", "Swap scam(s)", "Y"
+"ServiceForYou", "972261278959685652", "16/04/2023", "Alt of a blacklisted user", "Y"
