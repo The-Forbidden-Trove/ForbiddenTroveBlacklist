@@ -5233,3 +5233,4 @@ account_name, discord_id, blacklisted_on, reason, active
 "maximoleo", "1101497316126502923", "06/05/2023", "Alt of a blacklisted user", "Y"
 "Mirror_1123", "", "30/12/1899", "Swap scam(s)", "Y"
 "Qbrain", "", "06/05/2023", "Editing whisper message", "Y"
+"prokurator", "", "06/05/2023", "Refused to return overpaid currency", "Y"
