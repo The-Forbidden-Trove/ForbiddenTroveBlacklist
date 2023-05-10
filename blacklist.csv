@@ -5268,3 +5268,4 @@ account_name, discord_id, blacklisted_on, reason, active
 "cloudbat", "406861141541650434", "10/05/2023", "Did not pay for service(s)", "Y"
 "mendigao97", "710572281344032848", "10/05/2023", "Stole item(s) during service(s)", "Y"
 "mikeb003", "186988823522050048", "10/05/2023", "Did not pay for service(s)", "Y"
+"Zodrax", "", "10/05/2023", "Refused to return overpaid currency", "Y"
