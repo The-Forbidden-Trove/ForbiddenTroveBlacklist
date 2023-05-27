@@ -1526,7 +1526,7 @@ account_name, discord_id, blacklisted_on, reason, active
 "cnmonster", "", "27/5/2021", "Refused to return overpaid currency", "Y"
 "NimbusLeo", "", "27/5/2021", "Swap scam(s)", "Y"
 "Autodog86", "", "27/05/2021", "Swap scam(s)", "Y"
-"Rysiek1920192", "", "28/05/2021", "Cadiro scam", "Y"
+
 "Xirok_1", "106887020902658048", "29/5/2021", "Failed carry service and did not compensate", "Y"
 "chalsuu", "251270430311186433", "29/5/2021", "Service collateral scam(s)", "Y"
 "Picesera", "", "29/5/2021", "Swap scam(s)", "Y"
