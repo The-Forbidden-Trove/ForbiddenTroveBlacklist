@@ -514,3 +514,4 @@ account_name, discord_id, blacklisted_on, reason, active
 "mesnic01", "312294131772686337", "27/08/2023", "Price fixing", "Y"
 "fecteau30", "699764815001944094", "27/08/2023", "Misleading prices with no intention to sell", "Y"
 "FreshJitter", "321297127496220673", "27/08/2023", "Misleading prices with no intention to sell", "Y"
+"PrivetHS", "", "28/08/2023", "Price fixing", "Y"
