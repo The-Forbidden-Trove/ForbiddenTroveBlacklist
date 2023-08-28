@@ -5643,3 +5643,4 @@ account_name, discord_id, blacklisted_on, reason, active
 "Mjias", "", "27/08/2023", "Swap scam(s)", "Y"
 "jobar22", "", "29/03/2023", "Did not pay for service(s)", "Y"
 "smokeapp", "822614504847179786", "29/03/2023", "Failed carry service and did not compensate", "Y"
+"sadjokers", "1097823087342387210", "29/03/2023", "Alt of a blacklisted user", "Y"
