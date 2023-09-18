@@ -5827,3 +5827,4 @@ account_name, discord_id, blacklisted_on, reason, active
 "danwulfe", "", "01/09/2023", "Stole item(s) from group", "Y"
 "kokojambo10", "", "17/09/2023", "Stole item(s) from group", "Y"
 "porchymam", "369049287897776131", "18/09/2023", "Swap scam(s)", "Y"
+"ReaperLoh", "369049287897776131", "18/09/2023", "Alt of a blacklisted user", "Y"
