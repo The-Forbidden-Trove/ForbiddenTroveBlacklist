@@ -5941,3 +5941,4 @@ account_name, discord_id, blacklisted_on, reason, active
 "Drfreud05", "209404121076203521", "30/09/2023", "Stole item(s) from group", "Y"
 "VividNightmares", "", "23/09/2023", "Alt of a banned user", "Y"
 "Tastature", "", "30/09/2023", "Did not pay for service(s)", "Y"
+"T07N", "", "30/09/2023", "Editing whisper message", "Y"
