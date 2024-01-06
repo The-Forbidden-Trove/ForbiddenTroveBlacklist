@@ -6416,3 +6416,4 @@ account_name, discord_id, blacklisted_on, reason, active
 "anton_iav97", "", "06/01/2024", "Refused to return overpaid currency", "Y"
 "Birau_AKP", "", "06/01/2024", "Refused to return overpaid currency", "Y"
 "Aguik", "", "06/01/2024", "Swap scam(s)", "Y"
+"Brn4Dng", "1159117829203841036", "06/01/2024", "Alt of a blacklisted user", "Y"
