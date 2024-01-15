@@ -6506,3 +6506,4 @@ account_name, discord_id, blacklisted_on, reason, active
 "olsenopentop", "", "14/01/2014", "Refused to return overpaid currency", "Y"
 "Abodji", "", "14/01/2014", "Refused to return overpaid currency", "Y"
 "TemokriT", "", "14/01/2014", "Swap scam(s)", "Y"
+"Duck_Donal", "525356705803010053", "15/01/2014", "Alt of a blacklisted user", "Y"
