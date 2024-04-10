@@ -6759,3 +6759,4 @@ account_name, discord_id, blacklisted_on, reason, active
 "Eranthexly", "", "10/04/2024", "Rota scam", "Y"
 "Bananq", "1019674306487275600", "10/04/2024", "Stole currency", "Y"
 "flackus", "974947132803006504", "10/04/2024", "Swap scam(s)", "Y"
+"miller2", "974947132803006504", "10/04/2024", "Assisting a blacklisted user to gain access to TFT", "Y"
