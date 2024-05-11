@@ -6944,3 +6944,4 @@ account_name, discord_id, blacklisted_on, reason, active
 "HelloFAAS", "", "10/05/2024", "Refused to return overpaid currency", "Y"
 "zShamasHz", "", "01/05/2024", "Swap scam(s)", "Y"
 "AderMax", "", "10/05/2024", "Did not pay for service(s)", "Y"
+"pritka", "340564799081414676", "11/05/2024", "Doxxing and/or death threat(s)", "Y"
