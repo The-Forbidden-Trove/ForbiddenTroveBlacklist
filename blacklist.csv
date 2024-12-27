@@ -720,7 +720,7 @@ account_name, discord_id, blacklisted_on, reason, active
 "Kivitaru", "", "05/03/2021", "Doesn't want to return overpaid currency", "Y"
 "GrindyGrindyGrind", "", "05/03/2021", "Stole Item(s) during Service(s)", "Y"
 "poedrupo#6647", "", "03/05/2021", "Swap Scam(s)", "Y"
-"QueenP5", "562998409355853867, 389849207894441985 ", "03/06/2021", "Stole Item(s) during Service(s)"
+"QueenP5", "562998409355853867", "03/06/2021", "Stole Item(s) during Service(s)", "Y"
 "CeNTR#7457", "", "03/06/2021", "Swap Scam(s)", "Y"
 "blackwhiteson#7981", "332997904811950081", "03/06/2021", "Swap Scam(s)", "Y"
 "CrazyLunch#7093", "398154962380783619", "03/06/2021", "Bricked Item(s) and left", "Y"
