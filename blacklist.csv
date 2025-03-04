@@ -9067,3 +9067,4 @@ account_name, discord_id, blacklisted_on, reason, active
 "fenaa88#7541", "1254089729012531364", "04/03/2025", "Stole item(s) during service(s)", "Y"
 "sushimaker#9101", "", "04/03/2025", "Stole item(s) during service(s)", "Y"
 "toinika#4286", "", "04/03/2025", "Failed carry service and did not compensate", "Y"
+"toinika#4286", "705106941172777160", "04/03/2025", "Failed carry service and did not compensate", "Y"
