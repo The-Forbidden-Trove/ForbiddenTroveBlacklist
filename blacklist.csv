@@ -9724,3 +9724,4 @@ account_name, discord_id, blacklisted_on, reason, active
 "AgaVegas#6983", "", "02/06/2025", "Editing whisper message", "Y"
 "Spacepally#7953", "", "04/06/2025", "Lying about items value to deceive other players", "Y"
 "master_mirror#2937", "374625641330507776", "06/06/2025", "Refused to return overpaid currency", "Y"
+"BetaRay#8745", "593757139147948033", "06/06/2025", "Alt of a blacklisted user", "Y"
