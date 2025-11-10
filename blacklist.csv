@@ -10664,3 +10664,4 @@ account_name, discord_id, blacklisted_on, reason, active
 "BarBQshka#5005", "464483969837170698", "10/11/2025", "Did not pay for service(s)", "Y"
 "Jason11192#2651", "", "10/11/2025", "Did not pay for service(s)", "Y"
 "Vertre#7669", "", "10/11/2025", "Swap scam(s)", "Y"
+"FlowingStatic#1802", "", "10/11/2025", "Alt of a blacklisted user", "Y"
