@@ -10760,3 +10760,4 @@ account_name, discord_id, blacklisted_on, reason, active
 "leviathon1432#3090", "", "06/12/2025", "Stole item(s) during service(s)", "Y"
 "gabriusbe#6448", "355331645496098826", "06/12/2025", "Stole service fee", "Y"
 "whatbupro#5644", "1346700976379265117", "06/12/2025", "Swap scam(s)", "Y"
+"macc01#1439", "", "06/12/2025", "Alt of a blacklisted user", "Y"
