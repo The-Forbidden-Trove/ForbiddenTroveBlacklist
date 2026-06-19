@@ -1,23 +1,23 @@
-# ForbiddenTroveBlacklist
+# Poe Hub Blacklist
 Forbidden Trove Blacklist in a Machine Readable Format
 
-This repository contains the Blacklist and the pricefixers list of [the Forbidden Trove Discord Server](https://discord.gg/tftrove).
+This repository contains the Blacklist and the pricefixers list of [PoE Hub Discord Server](https://discord.gg/poe-hub).
 
 ## Appealing a blacklist or pricefixer flag.
-If you are banned or blacklisted and would like to appeal, you can do so by [filling out the following form](http://banappeal.tftrove.com/).
+If you are banned or blacklisted and would like to appeal, you can do so by [filling out the following form](https://dyno.gg/form/4868ff99).
 Make sure to explain what happened, how you fixed (or plan to fix) it and why we should give you another chance.
 Low efforts appeals will be denied. If you want a second chance, prove you deserve it.
 
 **If it has been 15 days and you have not heard back from us, it means your appeal was denied**.
-You are welcome to file another appeal when the next league starts. http://banappeal.tftrove.com/ 
+You are welcome to file another appeal when the next league starts. 
 
-Join The Forbidden Trove here: https://discord.gg/tftrove
+Join PoE Hub here: https://discord.gg/poe-hub
 
 Check tool which warns you when you're about to trade with a user who is blacklisted here: https://github.com/The-Forbidden-Trove/blacklist-tool
 
 ## Existing reasons for being blacklisted are:
 * Alt of a blacklisted user
-* Assisting a blacklisted user to gain access to TFT
+* Assisting a blacklisted user to gain access to PoE Hub
 * Attempt to cheat vouches
 * Blackmailing another player
 * Blackmailing the moderation team
