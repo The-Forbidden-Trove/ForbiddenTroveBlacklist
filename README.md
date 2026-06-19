@@ -1,5 +1,5 @@
 # Poe Hub Blacklist
-Forbidden Trove Blacklist in a Machine Readable Format
+PoE Hub Blacklist in a Machine Readable Format
 
 This repository contains the Blacklist and the pricefixers list of [PoE Hub Discord Server](https://discord.gg/poe-hub).
 
