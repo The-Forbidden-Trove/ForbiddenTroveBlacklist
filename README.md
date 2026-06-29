@@ -30,7 +30,7 @@ Check tool which warns you when you're about to trade with a user who is blackli
 * Falsifying/Deleting evidence
 * Holding items hostage/demanding ransom
 * Impersonating another player
-* Impersonating TFT moderator/CM
+* Impersonating PoE Hub moderator/CM
 * Moderator misconduct
 * Player killer (PK)
 * Refused to return overpaid currency
